@@ -13,6 +13,7 @@ my [born2beroot](https://www.github.com/BeerB34r/born2beroot) as i did it in a
 pretty unusual way. you can find all of them consolidated in one place
 [here](https://www.github.com/BeerB34r/codam-core), though i am notoriously bad
 at keeping the submodules up to date :pensive:
+
 my current codam projects are Minishell and Philosophers
 
 ### stuff i enjoy
@@ -20,6 +21,7 @@ i like ttrpgs, video games and the high medieval period. i'm particularly fond
 of [motw](https://evilhat.com/product/monster-of-the-week),
 [balatro](https://www.playbalatro.com) and the politics of european guilds, to
 name one of each.
+
 one of my favourite things to do is be silly with [shell
 scripts](https://www.github.com/BeerB34r/treachery), and doing even more, tiny changes to my
 [dotfiles](https://www.github.com/BeerB34r/dotfiles)
