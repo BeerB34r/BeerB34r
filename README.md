@@ -3,6 +3,7 @@
 ## resident goblin
 hi, i am currently attending [Codam](https://www.codam.nl/en), part of the [42
 network](https://www.42.fr), where i am writing a bunch of c and sh, with some c++ sprinkled in
+
 if you think i'd fit in at your company, i am open to employment ;)
 
 ### stuff im doing
