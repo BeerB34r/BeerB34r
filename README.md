@@ -2,8 +2,7 @@
 ![banner](assets/banner.gif)
 ## resident goblin
 hi, i am currently attending [Codam](https://www.codam.nl/en), part of the [42
-network](https://www.42.fr), where i am writing a bunch of c and sh, with c++ on
-the horizon
+network](https://www.42.fr), where i am writing a bunch of c and sh, with some c++ sprinkled in
 if you think i'd fit in at your company, i am open to employment ;)
 
 ### stuff im doing
@@ -14,7 +13,7 @@ pretty unusual way. you can find all of them consolidated in one place
 [here](https://www.github.com/BeerB34r/codam-core), though i am notoriously bad
 at keeping the submodules up to date :pensive:
 
-my current codam projects are Minishell and Philosophers
+my current codam project is MiniRT
 
 ### stuff i enjoy
 i like ttrpgs, video games and the high medieval period. i'm particularly fond
