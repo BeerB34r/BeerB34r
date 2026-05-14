@@ -27,7 +27,7 @@ scripts](https://www.github.com/BeerB34r/treachery), and doing even more, tiny, 
 [dotfiles](https://www.github.com/BeerB34r/dotfiles)
 
 ### stuff i dont enjoy
-i dislike using generative AI in general, and am pretty fervently opposed to all
+i dislike using generative AI in general (LLMs, stable diffusion, etc), and am pretty fervently opposed to all
 implementations of the blockchain i've seen over the years. web3 is decidedly
 _not_ my jam.
 
