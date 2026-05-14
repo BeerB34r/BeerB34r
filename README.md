@@ -29,6 +29,9 @@ scripts](https://www.github.com/BeerB34r/treachery), and doing even more, tiny, 
 i dislike using generative AI in general, and am pretty fervently opposed to all
 implementations of the blockchain i've seen over the years. web3 is decidedly
 _not_ my jam.
+
+### Contact info
+if you need to contact me for whatever reason, send me an [email](mailto:matsdebeerk@gmail.com) or find me on discord @ beerbear
 <!--
 **BeerB34r/BeerB34r** is a ✨ _special_ ✨ repository
 -->
